@@ -1,0 +1,9 @@
+{
+  "name": "design-system",
+  "scripts": {
+    "build:tokens": "style-dictionary build --config tools/token-build/config.js"
+  },
+  "devDependencies": {
+    "style-dictionary": "^4.0.0"
+  }
+}
